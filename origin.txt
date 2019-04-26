@@ -1,0 +1,88 @@
+Uri: https://dance-studio.siteplus.com/
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\index.htm
+Content Type: text/html
+
+Uri: https://dance-studio.siteplus.com/bundle/51002/css/publish/common.css
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\bundle\51002\css\publish\common.css
+Content Type: text/css
+
+Uri: https://dance-studio.siteplus.com/bundle/51002/css/publish/publish.css
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\bundle\51002\css\publish\publish.css
+Content Type: text/css
+
+Uri: https://dance-studio.siteplus.com/styles/dance-studio.css
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\styles\dance-studio.css
+Content Type: text/css
+
+Uri: https://dance-studio.siteplus.com/bundle/51002/vendor.js
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\bundle\51002\vendor.js
+Content Type: application/x-javascript
+
+Uri: https://dance-studio.siteplus.com/bundle/51002/publish.js
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\bundle\51002\publish.js
+Content Type: application/x-javascript
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_20_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_red_20_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_20_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_red_20_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_20_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_white_20_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_20_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_white_20_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_20_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_gray_20_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_20_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_gray_20_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_28_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_red_28_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_red_28_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_red_28_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_28_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_white_28_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_white_28_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_white_28_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_28_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_gray_28_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_rect_gray_28_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_rect_gray_28_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_16_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_round_red_16_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_16_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_round_red_16_2.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_32_1.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_round_red_32_1.png
+Content Type: image/png
+
+Uri: https://s-passets.pinimg.com/images/pidgets/pinit_bg_en_round_red_32_2.png
+File Name: c:\Downloaded Web Sites\dance-studio.siteplus.com\images\pidgets\pinit_bg_en_round_red_32_2.png
+Content Type: image/png
+
